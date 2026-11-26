@@ -2,10 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer • Cybersecurity & Networking Enthusiast from Karachi 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com[your-username]&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
-  <a href="mailto:mudassiralipanhwar3@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  📧 <a href="mailto:mu3@gmail.com"><strong>mu3@gmail.com</strong></a> • 📍 Karachi, Pakistan • 💼 Open to Hybrid / Remote Internships
 </p>
 
 ---
@@ -22,26 +19,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Web**
-<p>
-  <img src="https://githubusercontent.com" width="38" height="38" alt="HTML5" title="HTML5" />
-  <img src="https://githubusercontent.com" width="38" height="38" alt="CSS3" title="CSS3" />
-  <img src="https://githubusercontent.com" width="38" height="38" alt="JavaScript" title="JavaScript" />
-</p>
-
-**APIs & Data (Learning)**
-<p>
-  <img src="https://githubusercontent.com" width="38" height="38" alt="JSON" title="JSON" />
-  <img src="https://githubusercontent.com" width="38" height="38" alt="REST API" title="REST API" />
-</p>
-
-**Networking & Security**
-- 🛡️ Cisco Networking Basics • TCP/IP & HTTP/HTTPS • Web Security Fundamentals
-
-**Tools & Workflow**
-<p>
-  <img src="https://githubusercontent.com" width="38" height="38" alt="VS Code" title="VS Code" />
-  <img src="https://githubusercontent.com" width="38" height="38" alt="Git" title="Git" />
-  <img src="https://githubusercontent.com" width="38" height="38" alt="GitHub" title="GitHub" />
-  <img src="https://githubusercontent.com" width="38" height="38" alt="Netlify" title="Netlify" />
-</p>
+- **Frontend & Web:** 🌐 HTML5 • 🎨 CSS3 (Flexbox & Responsive Design) • ⚡ JavaScript (DOM)
+- **APIs & Data (Learning):** 📦 JSON • 🔗 REST APIs • 🔄 JavaScript `fetch()`
+- **Networking & Security:** 🛡️ Cisco Networking Basics • 🌐 TCP/IP & HTTP/HTTPS • 🔒 Web Security Fundamentals
+- **Tools & Workflow:** 💻 VS Code • 🌿 Git & GitHub • 🚀 Netlify • 🤖 AI Coding Assistants
