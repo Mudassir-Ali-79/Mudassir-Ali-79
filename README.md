@@ -23,20 +23,25 @@
 ### 🛠️ Tech Stack & Tools
 
 **Frontend & Web**
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" width="38" height="38" alt="HTML5" title="HTML5" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="CSS3" title="CSS3" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="JavaScript" title="JavaScript" />
+</p>
 
 **APIs & Data (Learning)**
-![JSON](https://shields.io)
-![REST API](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" width="38" height="38" alt="JSON" title="JSON" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="REST API" title="REST API" />
+</p>
 
 **Networking & Security**
-![Cisco](https://shields.io)
-![Cybersecurity](https://shields.io)
+- 🛡️ Cisco Networking Basics • TCP/IP & HTTP/HTTPS • Web Security Fundamentals
 
 **Tools & Workflow**
-![VS Code](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Netlify](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" width="38" height="38" alt="VS Code" title="VS Code" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Git" title="Git" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="GitHub" title="GitHub" />
+  <img src="https://githubusercontent.com" width="38" height="38" alt="Netlify" title="Netlify" />
+</p>
