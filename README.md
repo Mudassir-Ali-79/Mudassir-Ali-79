@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer • Cybersecurity & Networking Enthusiast from Karachi 🇵🇰</h3>
 
 <p align="center">
-  📧 <a href="mailto:mu3@gmail.com"><strong>mu3@gmail.com</strong></a> • 📍 Karachi, Pakistan • 💼 Open to Hybrid / Remote Internships
+  • 📍 Karachi, Pakistan • 💼 Open to Hybrid / Remote Internships
 </p>
 
 ---
